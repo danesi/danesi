@@ -1,6 +1,6 @@
 ### Hey, I'm Daniel Anesi! 👋
 
-  - passionate about Android development ❤📱
+  - Passionate about Android development ❤📱
 
 ### Technology 👨‍💻
 
