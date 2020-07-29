@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey, I'm Daniel Anesi! 👋
 
-<!--
-**danesi/danesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - passionate about Android development ❤📱
 
-Here are some ideas to get you started:
+### Technology 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Java Android
+  - PHP
+  - HTML
+  - JavaScript
+  - CSS
+  - SQL
+  
+### Find me elsewhere 🌎
+
+🐦[Twitter](https://twitter.com/DanielAnesi2)
+
+📸[Instagran](https://www.instagram.com/_anesi/)
+
+💼[Linkedin](https://www.linkedin.com/in/daniel-oliveira-anesi-440710142/)
