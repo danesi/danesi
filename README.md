@@ -1,16 +1,18 @@
 ### Hey, I'm Daniel Anesi! 👋
 
   - Passionate about Android development ❤📱
-  - Backend developer
+  - Mobile and Backend developer
 
 ### Technology 👨‍💻
 
+  - Flutter
   - Java Android
   - PHP
   - HTML
   - JavaScript
   - CSS
   - SQL
+  - C#
   
 ### Find me elsewhere 🌎
 
