@@ -2,6 +2,7 @@
 
   - Passionate about Android development ❤📱
   - Mobile and Backend developer
+  - Partner of the company [Financeiramente App](https://financeiramente.app)
 
 ### Technology 👨‍💻
 
