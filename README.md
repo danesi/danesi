@@ -6,6 +6,7 @@
 
 ### Technology 👨‍💻
 
+  - Java
   - Flutter
   - Java Android
   - PHP
